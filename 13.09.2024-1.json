@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Mcclain",
+    "age": 109,
+    "address": {
+        "street": "Johnson Burgs",
+        "city": "West Charles",
+        "state": "Wyoming",
+        "zip": "32248"
+    },
+    "contact": {
+        "phone": "(261)662-7073x470",
+        "servicePhone": "800875962"
+    },
+    "birthday": "1916-11-11",
+    "ip": "71.110.245.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Day officer three compare miss. Always bit help. Field research hand learn protect contain serve.",
+        "bio": "Education party organization east visit. Result director member like.\nMission discussion personal resource. Single green value state. First perform learn yourself late shake allow."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}

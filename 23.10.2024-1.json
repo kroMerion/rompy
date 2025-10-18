@@ -1,0 +1,25 @@
+{
+    "name": "Shaun Hill",
+    "age": 46,
+    "address": {
+        "street": "Grant Flats",
+        "city": "Lake Cassidychester",
+        "state": "Texas",
+        "zip": "23425"
+    },
+    "contact": {
+        "phone": "(630)995-1648",
+        "servicePhone": "800300059"
+    },
+    "birthday": "1979-16-02",
+    "ip": "184.12.147.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Against recent cup base. Allow all report since.\nPeople under he born strategy road people. Long finally grow somebody stuff manager. Adult those tax suddenly old.",
+        "bio": "Approach she statement character church national short. Agreement finally worry light. Laugh receive each than rest small.\nSenior look wall tell. Article perform poor let wife network."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}

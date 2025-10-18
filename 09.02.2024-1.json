@@ -1,0 +1,25 @@
+{
+    "name": "Ethan Duffy",
+    "age": 21,
+    "address": {
+        "street": "Williams Ports",
+        "city": "Juliechester",
+        "state": "Wyoming",
+        "zip": "76773"
+    },
+    "contact": {
+        "phone": "001-832-831-7493x2200",
+        "servicePhone": "800486322"
+    },
+    "birthday": "2004-19-04",
+    "ip": "22.228.34.118",
+    "foo": "bar",
+    "profile": {
+        "about": "Tv small too quality let lead miss. Claim tax well I interest under.\nDrug week ok include agree natural mean. List civil rich floor technology clearly.",
+        "bio": "Would treat through contain great raise financial final. Television success reality ok wish wall.\nCare difficult reduce huge none add."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}

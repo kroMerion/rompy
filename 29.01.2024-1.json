@@ -1,0 +1,25 @@
+{
+    "name": "Courtney Smith",
+    "age": 111,
+    "address": {
+        "street": "Lisa Wall",
+        "city": "East David",
+        "state": "Mississippi",
+        "zip": "27642"
+    },
+    "contact": {
+        "phone": "+1-262-408-4424",
+        "servicePhone": "800877137"
+    },
+    "birthday": "1914-25-10",
+    "ip": "41.189.144.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Collection child sign world about when study. Understand effect leg store girl show draw. Along evidence several.",
+        "bio": "Relationship enter officer he fear customer.\nTask parent when at finally former attention. Among push month identify ask. History begin outside. Five big before respond."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}

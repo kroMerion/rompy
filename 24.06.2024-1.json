@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Moore",
+    "age": 84,
+    "address": {
+        "street": "Cantrell Circle",
+        "city": "Joshualand",
+        "state": "Oregon",
+        "zip": "43038"
+    },
+    "contact": {
+        "phone": "528.324.2371x4181",
+        "servicePhone": "800708619"
+    },
+    "birthday": "1941-14-05",
+    "ip": "17.218.82.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Main floor fear field audience.\nSeek hope natural relate. Husband loss today seem. Note watch nation turn collection. Soldier believe decide without effect thousand single.",
+        "bio": "Leave treat population write several low final. School enter measure.\nMonth knowledge just him range young see hope. Film win country month. Decide within since garden training officer subject."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}

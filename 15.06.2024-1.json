@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Lopez",
+    "age": 93,
+    "address": {
+        "street": "Phillips Light",
+        "city": "Port Caitlinchester",
+        "state": "Louisiana",
+        "zip": "05553"
+    },
+    "contact": {
+        "phone": "001-877-273-6148x17993",
+        "servicePhone": "800798262"
+    },
+    "birthday": "1932-03-04",
+    "ip": "196.137.34.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Blood husband throughout TV. Attack century culture interest.\nLanguage never white actually environment. Benefit laugh beyond company. Method if about indicate.",
+        "bio": "Pass somebody air bring model memory. Other ever look it study. Customer go computer.\nSon quality describe your to soldier plan. Increase idea suddenly your note scientist find win."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}

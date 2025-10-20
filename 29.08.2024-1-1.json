@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Brown",
+    "age": 67,
+    "address": {
+        "street": "Sandra Parkways",
+        "city": "Jasonshire",
+        "state": "New Hampshire",
+        "zip": "24477"
+    },
+    "contact": {
+        "phone": "+1-370-982-6136x19306",
+        "servicePhone": "800632044"
+    },
+    "birthday": "1958-04-06",
+    "ip": "172.45.72.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Defense color well toward. Firm win camera.\nBuilding heart war require. Truth spend save mind standard. Attack official certainly.",
+        "bio": "Shoulder ground since within sea professor.\nHand approach him lose man kid. Four PM knowledge pretty."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}

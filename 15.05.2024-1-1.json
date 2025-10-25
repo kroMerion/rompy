@@ -1,0 +1,25 @@
+{
+    "name": "Kerry Smith",
+    "age": 38,
+    "address": {
+        "street": "Brock Fields",
+        "city": "Bellborough",
+        "state": "Arizona",
+        "zip": "67545"
+    },
+    "contact": {
+        "phone": "967-386-6431",
+        "servicePhone": "800872978"
+    },
+    "birthday": "1987-09-11",
+    "ip": "209.100.113.47",
+    "foo": "bar",
+    "profile": {
+        "about": "Usually soon soldier must process. Executive president close effort cause authority raise. Wait play you season test. Family song within.",
+        "bio": "Indicate of collection hear beyond open. Major human line help Mr race million.\nNational might I light well outside world. Economy beyond require marriage arm."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
